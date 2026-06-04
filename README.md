@@ -10,7 +10,6 @@ Penso ativamente na usabilidade, na acessibilidade e em como o usuário final va
 ## 🛠️ Tools
 
 <div align="left">
-  <!-- Front-end & Design -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -19,8 +18,9 @@ Penso ativamente na usabilidade, na acessibilidade e em como o usuário final va
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img width="12" />
   
-  <!-- Mobile & Back-end -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -28,7 +28,6 @@ Penso ativamente na usabilidade, na acessibilidade e em como o usuário final va
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   
-  <!-- IDEs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
@@ -40,7 +39,7 @@ Penso ativamente na usabilidade, na acessibilidade e em como o usuário final va
 
 ## Projetos em Destaque
 
-- **[SICPVA](https://github.com/etnfac/SICPVA)**: Sistema Integrado de Compras. Uma aplicação focada em otimizar e digitalizar o fluxo de demandas e aquisições. Aqui, aplico meus conhecimentos de Front-end para criar uma interface que simplifica a complexidade da administração pública.
+- **[SICPVA](https://github.com/etnfac/SICPVA)**: Sistema Integrado de Compras. Uma aplicação focada em otimizar e digitalizar o fluxo de demandas e aquisições. Uma interface que simplifica a complexidade da administração pública.
 
 ## 📊 Minhas Estatísticas no GitHub
 > *Nota: Os dados abaixo são atualizados automaticamente.*
