@@ -44,10 +44,9 @@ Penso ativamente na usabilidade, na acessibilidade e em como o usuário final va
 ## 📊 Minhas Estatísticas no GitHub
 > *Nota: Os dados abaixo são atualizados automaticamente.*
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=etnfac&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de etnfac"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etnfac&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas por etnfac"/>
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=etnfac&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=etnfac&layout=compact&theme=radical)
 
 <br>
 
@@ -59,7 +58,7 @@ Penso ativamente na usabilidade, na acessibilidade e em como o usuário final va
 ---
 
 <details>
-<summary><b>Click here to read the English version abot me!/b></summary>
+<summary><b>Click here to read the English version abot me!</b></summary>
 <br>
 
 # Hi, I'm Ethan!
