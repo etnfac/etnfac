@@ -44,10 +44,9 @@ Penso ativamente na usabilidade, na acessibilidade e em como o usuário final va
 ## 📊 Minhas Estatísticas no GitHub
 > *Nota: Os dados abaixo são atualizados automaticamente.*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=etnfac&amp;show_icons=true&amp;theme=radical" height="165" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etnfac&amp;layout=compact&amp;theme=radical" height="165" alt="Linguagens mais usadas" />
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=etnfac&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=etnfac&layout=compact&theme=radical)
 
 <br>
 
