@@ -4,7 +4,7 @@
 
 Penso ativamente na usabilidade, na acessibilidade e em como o usuário final vai interagir com a interface, pois minha vivência diária coordenando serviços administrativos e processos licitatórios me deu uma visão analítica apurada. Posso traduzir regras complexas e burocráticas em soluções tecnológicas práticas e amigáveis.
 
-- 📚 Atualmente aprofundando meus conhecimentos em -> Back-End em Java; UX/UI/Design; IA.
+- 📚 Atualmente aprofundando meus conhecimentos em -> Back-End em Java; UX/UI Design; IA.
 - 💡 Focado em construir projetos que resolvam problemas reais e otimizem fluxos de trabalho.
 
 ## 🛠️ Tools
