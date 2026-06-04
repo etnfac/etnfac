@@ -45,16 +45,22 @@ Penso ativamente na usabilidade, na acessibilidade e em como o usuário final va
 > *Nota: Os dados abaixo são atualizados automaticamente.*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=etnfac&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etnfac&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=etnfac&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de etnfac"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etnfac&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas por etnfac"/>
 </div>
+
+<br>
 
 ## 📫 Como me encontrar | Let's Connect
 - [LinkedIn](https://LINKEDIN.COM/IN/ETHANFACCIOLI)
-  
-  ---
 
-### English Version
+<br>
+
+---
+
+<details>
+<summary><b>Click here to read the English version abot me!/b></summary>
+<br>
 
 # Hi, I'm Ethan!
 
@@ -65,6 +71,8 @@ My background in administrative management and public procurement gives me a sha
 - 📚 Currently diving deeper into -> Java Back-End; UX/UI Design; AI.
 - 💡 Driven to build projects that solve real-world problems and optimize workflows.
 
-## Featured Project
+## 🚀 Featured Project
 
 - **[SICPVA](https://github.com/etnfac/SICPVA)**: Integrated Purchasing System. An app designed to digitize and optimize public procurement workflows, simplifying public administration complexity through an intuitive interface.
+
+</details>
