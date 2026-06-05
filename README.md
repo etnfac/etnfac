@@ -77,13 +77,6 @@ With a background in graphic design and daily experience in public administratio
   <img src="https://img.shields.io/badge/SICPVA_-_Sistema_Integrado_de_Compras-%231572B6?style=for-the-badge&logo=github&logoColor=white" alt="SICPVA">
 </a>
 
-<br><br>
-
-<div align="center">
-  <a href="https://github.com/etnfac/SICPVA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=etnfac&repo=SICPVA&theme=radical&show_icons=true" alt="Projeto SICPVA" />
-  </a>
-</div>
 <br>
 <blockquote>
   <b>SICPVA (Sistema Integrado de Compras):</b> Uma aplicação desenvolvida para otimizar o fluxo de demandas e aquisições. O projeto traduz regras rígidas e complexas das compras e licitações na administração pública em uma interface altamente intuitiva, focada na usabilidade do usuário final.
