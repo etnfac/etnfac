@@ -39,7 +39,7 @@ Penso ativamente na usabilidade, na acessibilidade e em como o usuário final va
 
 ## Projetos em Destaque
 
-- **[SICPVA](https://github.com/etnfac/SICPVA)**: Sistema Integrado de Compras. Uma aplicação focada em otimizar e digitalizar o fluxo de demandas e aquisições. Uma interface que simplifica a complexidade da administração pública.
+- **[SICPVA](https://github.com/etnfac/SICPVA)**: Sistema Integrado de Compras. Uma aplicação focada em otimizar o fluxo de demandas e aquisições. Uma interface que simplifica a complexidade da administração pública.
 
 ## 📊 Minhas Estatísticas no GitHub
 > *Nota: Os dados abaixo são atualizados automaticamente.*
