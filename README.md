@@ -5,7 +5,8 @@
 
   <a href="https://LINKEDIN.COM/IN/ETHANFACCIOLI" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  </a> 
+<br>
   <a href="mailto:ethanfaccioli@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
@@ -27,7 +28,7 @@ Trago uma bagagem com design gráfico e vivo diariamente a realidade da gestão 
 <br>
 
 <details>
-<summary><b>🇺🇸 English Version</b></summary>
+<summary><b>English Version</b></summary>
 <br>
 
 ## About me
@@ -82,7 +83,7 @@ With a background in graphic design and daily experience in public administratio
 
 ---
 
-## 🚀 Projeto em Destaque
+## 🚀 Projeto em destaque
 
 <div align="center">
   <a href="https://github.com/etnfac/SICPVA">
@@ -93,14 +94,3 @@ With a background in graphic design and daily experience in public administratio
 <blockquote>
   <b>SICPVA (Sistema Integrado de Compras):</b> Uma aplicação desenvolvida para otimizar o fluxo de demandas e aquisições. O projeto traduz regras rígidas e complexas das compras e licitações na administração pública em uma interface altamente intuitiva, focada na usabilidade do usuário final.
 </blockquote>
-
-<br>
-
----
-
-## 📊 Minhas Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=etnfac&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etnfac&layout=compact&theme=radical" alt="Linguagens mais usadas" height="170" />
-</div>
