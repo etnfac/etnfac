@@ -6,10 +6,6 @@
   <a href="https://LINKEDIN.COM/IN/ETHANFACCIOLI" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> 
-<br>
-  <a href="mailto:ethanfaccioli@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
 
 </div>
 
