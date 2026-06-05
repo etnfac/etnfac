@@ -83,20 +83,3 @@ With a background in graphic design and daily experience in public administratio
 </blockquote>
 
 <br>
-
----
-
----
-
-## 📊 Atividade
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=etnfac&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=etnfac&theme=radical&hide_border=false" height="170" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etnfac&layout=compact&theme=radical" />
-</div>
