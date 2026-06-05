@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Olá, eu sou o Facci! 👨‍💻</h1>
+  <h1>Olá, eu sou o Ethan!</h1>
   <h3>Desenvolvedor Front-End</h3>
 
   <a href="https://LINKEDIN.COM/IN/ETHANFACCIOLI" target="_blank">
